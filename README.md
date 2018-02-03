@@ -1,0 +1,2 @@
+# Application-Development-of-Policy-Keying-System-for-Insurance-domain
+Developed application for Insurance domain which would help the Agents to create and manage the policies which would help the Policy holders to keep track of the policy status.This project was developed based on object oriented programming concepts and UI was developed on JavaFx platform. Tools used: Eclipse, JavaFx Scene builder, MYSQL workbench
